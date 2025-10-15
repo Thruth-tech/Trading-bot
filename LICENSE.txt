@@ -1,0 +1,62 @@
+LIGHTER TRADING BOT - COMMERCIAL SOFTWARE LICENSE
+=================================================
+
+Copyright (c) 2025 Lighter Trading Bot Professional Edition
+All Rights Reserved.
+
+COMMERCIAL LICENSE AGREEMENT
+
+This software is a commercial product. By purchasing and using this software, 
+you agree to the following terms:
+
+1. GRANT OF LICENSE
+   - You are granted a non-exclusive, non-transferable license to use this software
+   - License is valid for the purchaser only
+   - Cannot be shared, distributed, or resold without written permission
+
+2. PERMITTED USES
+   - Personal or commercial trading activities
+   - Running the bot on your own systems
+   - Configuration and customization for your trading needs
+
+3. RESTRICTIONS
+   - NO reverse engineering of protected algorithms (.pyc files)
+   - NO distribution or sharing of the software
+   - NO modification of core trading logic
+   - NO removal of copyright notices
+
+4. INTELLECTUAL PROPERTY
+   - Core trading algorithms are proprietary and protected
+   - UI and configuration components are included in source form
+   - All trading strategies and risk management logic remain proprietary
+
+5. DISCLAIMER OF WARRANTIES
+   - Software is provided "AS IS" without warranty of any kind
+   - NO guarantee of trading profits or performance
+   - Trading involves substantial risk of loss
+   - User assumes all trading risks
+
+6. LIMITATION OF LIABILITY
+   - Developer not liable for trading losses
+   - Maximum liability limited to purchase price
+   - User responsible for all trading decisions and outcomes
+
+7. TERMINATION
+   - License terminates if terms are violated
+   - All copies must be destroyed upon termination
+
+8. TRADING RISKS
+   - Cryptocurrency trading involves high risk
+   - Past performance does not guarantee future results
+   - Only trade with funds you can afford to lose
+   - Seek professional financial advice before trading
+
+By using this software, you acknowledge that you have read, understood, 
+and agree to be bound by these terms.
+
+For support or licensing inquiries, contact the developer.
+
+---
+Package Version: Professional Edition v1.0
+License Date: July 2025
+Trading Platform: Lighter Exchange 

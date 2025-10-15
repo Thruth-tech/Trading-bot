@@ -1,0 +1,20 @@
+# Lighter Trading Bot - Complete Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core Lighter SDK (จะ pull dependencies อื่นๆ มาด้วยอัตโนมัติ)
+git+https://github.com/elliottech/lighter-python.git
+
+# HTTP requests (สำหรับ API calls)
+requests>=2.31.0
+
+# WebSocket support (สำหรับ real-time trading)
+websockets>=11.0.0
+
+# Configuration (.env file support)
+python-dotenv>=1.0.0
+
+# Ethereum account support
+eth-account>=0.8.0 
+
+# Async HTTP client (backup)
+aiohttp>=3.8.0 

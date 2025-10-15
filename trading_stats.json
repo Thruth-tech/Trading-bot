@@ -1,0 +1,15 @@
+{
+  "total_volume_usd": 299.52659800000004,
+  "total_trades": 3,
+  "filled_orders": 0,
+  "canceled_orders": 0,
+  "realized_pnl": 0.0,
+  "unrealized_pnl": 0.0,
+  "fees_paid": 0.0,
+  "start_time": 1752633483.050965,
+  "start_balance": 52.5413,
+  "current_balance": 52.5413,
+  "positions": {},
+  "orders_created": 8,
+  "orders_filled": 3
+}
